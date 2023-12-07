@@ -140,3 +140,9 @@ dmypy.json
 cython_debug/
 
 .NotFound/data/
+.DLENV/
+.DL2ENV/
+DLENV
+DL2ENV
+NotFound/Projects/starter-kit/landmark_images/
+NotFound/Projects/starter-kit/checkpoints/
