@@ -139,11 +139,15 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-.NotFound/data/
+.Personal/data/
 .DLENV/
 .DL2ENV/
 DLENV
 DL2ENV
-NotFound/Projects/starter-kit/landmark_images/
-NotFound/Projects/starter-kit/checkpoints/
-NotFound/RNN_stuff/intro_to_rnns/data
+Personal/Projects/starter-kit/landmark_images/
+Personal/Projects/starter-kit/checkpoints/
+Personal/RNN_stuff/intro_to_rnns/data
+Personal/RNN_stuff/intro_to_rnns/checkpoints
+Personal/CNN_stuff/data
+Personal\CNN_stuff\data
+Personal/Projects/Landmark_project/landmark_images
