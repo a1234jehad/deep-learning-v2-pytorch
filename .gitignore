@@ -151,3 +151,6 @@ Personal/RNN_stuff/intro_to_rnns/checkpoints
 Personal/CNN_stuff/data
 Personal\CNN_stuff\data
 Personal/Projects/Landmark_project/landmark_images
+/Personal/GAN_stuff/Intro_to_GAN/data
+processed-celeba-small.zip
+/Personal/Projects/Face_Generation/processed_celeba_small
